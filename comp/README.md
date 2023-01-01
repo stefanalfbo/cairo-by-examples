@@ -1,0 +1,1 @@
+Where the compiled version StarkNet smart contracts are stored.
